@@ -2,7 +2,7 @@
 
 ### About
 
-Final project of the university optional course "Python per ingegneri matematici" ("Python for mathematical engineers"). The aim of the project is to analyze tweets about a certain topic - in this case, the Eurovision Song Contest 2021 - and experimenting with different Python libraries.
+Final project of the university optional course "Python per ingegneri matematici" ("Python for mathematical engineers"). The aim of the project is to analyze tweets about a chosen topic - in this case, the Eurovision Song Contest 2021 - and experimenting with different Python libraries.
 
 ### Dataset
 
